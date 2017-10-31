@@ -1,2 +1,2 @@
-Hello there!
-Another line
+Hello
+
